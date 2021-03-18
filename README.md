@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains a study case of the work developed by Manikonda, S et al. in *IDM based on image classification with CNN* [1]. Here is shown a CNN approach for islanding detection cases. Also is presented a way to generate islanding detection images. [1]
+This repository contains a study case of the work developed by Manikonda, S et al. in *IDM based on image classification with CNN*. Here is shown a CNN approach for islanding detection cases. Also is presented a way to generate islanding detection images. [1]
 
 ## Work Environment
 
@@ -16,7 +16,7 @@ Before init with the simulation, you must to run the [*power_PVarray_100kW_param
 
 ### CNN Training.
 
-All the project development is self content in the [*Islanding Detection with CNN.ipynb*](data/Islanding Detection with CNN.ipynb) notebook, feel free if you want to modify some parameters and run different train experiments.
+All the project development is self content in the [*Islanding Detection with CNN.ipynb*](data/Islanding_Detection_with_CNN.ipynb) notebook, feel free if you want to modify some parameters and run different train experiments.
 
 ## Citing Work
 
