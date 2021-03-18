@@ -16,7 +16,7 @@ Before init with the simulation, you must to run the [*power_PVarray_100kW_param
 
 ### CNN Training.
 
-All the project development is self content in the [*Islanding_Detection/data/Islanding Detection with CNN.ipynb*](Islanding_Detection/data/Islanding Detection with CNN.ipynb) notebook, feel free if you want to modify some parameters and run different train experiments.
+All the project development is self content in the [*Islanding Detection with CNN.ipynb*](Islanding_Detection/data/Islanding Detection with CNN.ipynb) notebook, feel free if you want to modify some parameters and run different train experiments.
 
 ## Citing Work
 
