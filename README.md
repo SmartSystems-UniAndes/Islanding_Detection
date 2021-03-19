@@ -35,5 +35,5 @@ All the project development is self content in the [*Islanding Detection with CN
 
 ## References
 
-[1] Manikonda, S. K., & Gaonkar, D. N. (2019). IDM based on image classification with CNN. The Journal of Engineering, 2019(10), 7256-7262.
+[1] Manikonda, S. K., & Gaonkar, D. N. (2019). IDM based on image classification with CNN. The Journal of Engineering, 2019(10), 7256-7262. \
 [2] Giroux, P., Sybille, G., Osorio, C., & Chandrachood, S. (2014). Detailed Model of a 100-kW Grid-Connected PV Array.
