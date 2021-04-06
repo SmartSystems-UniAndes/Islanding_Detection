@@ -7,6 +7,7 @@ This repository contains a study case of the work developed by Manikonda, S et a
 ## Work Environment
 
 To use this repository it is essential to use the 2020a version (or upper) of MATLAB.
+For python see [SETUP](SETUP.md)
 
 ## How it works?
 
@@ -17,6 +18,20 @@ Before init with the simulation, you must to run the [*power_PVarray_100kW_param
 ### CNN Training.
 
 All the project development is self content in the [*Islanding Detection with CNN.ipynb*](data/Islanding_Detection_with_CNN.ipynb) notebook, feel free if you want to modify some parameters and run different train experiments.
+
+### Demo
+
+To use the demo run the demo.py file that has the following arguments:
+
+- **data_path**: Path with the test data (default: "data/test_data.npy")
+- **labels_path**: Path with the demo labels (default: "data/test_labels.npy").
+- **model_path**: Path .h5 model for binary classification (default: "data/model/islanding_model.h5.")
+
+Example:
+
+```sh
+$ python demo.py
+```
 
 ## Citing Work
 
